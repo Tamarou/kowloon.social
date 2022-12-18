@@ -12,7 +12,7 @@ services:
   autoDeploy: false
   envVars:
     - key: GTS_HOST
-      value: nerdfight.online
+      value: kowloon.social
     - key: GTS_DB_ADDRESS
       fromDatabase:
         name: gotosocial
